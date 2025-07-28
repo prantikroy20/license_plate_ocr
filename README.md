@@ -1,7 +1,7 @@
 # 💥 YOLOv8 License Plate Detector 🔥📸  
 Ever seen a shady car and thought, “Yo what’s that plate say?” — well, now you can find out yourself 😎
 
-This bad boy project uses **YOLOv8 + EasyOCR** to **detect & read license plates** from images 📷.  
+This project uses **YOLOv8 + EasyOCR** to **detect & read license plates** from images 📷.  
 Whether it's for fun, security, or just flexing your AI skills, this project gotchu 💯
 
 ---
@@ -67,7 +67,7 @@ That’s a full AI pipeline doing 🔥 magic!
 ✅ Fully customizable for your use-case
 
 🧠 Made By
-Built with 🚀 and ☕ by Prantik Roy
+Built with 🚀 and ☕ by Prantik Roy & Subhasis Chattopadhyay
 📫 GitHub Repo
 📧 roy957688@gmail.com
 
